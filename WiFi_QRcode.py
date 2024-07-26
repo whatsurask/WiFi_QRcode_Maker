@@ -12,7 +12,7 @@ image_file_name = "wifi_QRcode111.png" #Insert desired name for the image file t
 
 
 #############################################
-#The magic happens here, ignore unless ur a geek aswell :)
+#The magic happens here, ignore unless ur a geek as well :)
 #############################################
 wifi_config = f"WIFI:T:{encryption};S:{ssid};P:{password};H:{hidden};"
 
